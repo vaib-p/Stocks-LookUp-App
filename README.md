@@ -13,6 +13,10 @@ This Android application provides users with real-time stock market data. Users 
 ## Screenshots
 
 ### Stock Search:
+<p align="center">
+  <img src="ss1.jpg" alt="Home Screen" width="45%" />
+  <img src="ss2.jpg" alt="Stock Search Result" width="45%" />
+</p>
 ![Stock Screen](ss1.jpg)
 
 ### Stock Search Result:
