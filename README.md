@@ -41,13 +41,13 @@ To set up and run this project, you'll need:
 Open Android Studio.
 Click on File > Open and select the cloned repository folder.
 3. **API Key Configuration**:
-Register for an API key from [the stock market API provider].
+Register for an API key from twelve data API[the stock market API provider].
 Add your API key in the MainActivity.java file:
 **stockViewModel.fetchStockData(symbol, "YOUR_API_KEY");**
 
 4. **How to Obtain an API Key: Follow these steps to get an API key from Alpha Vantage**:
 
-Go to Alpha Vantage and click on Get Your Free API Key.
+Go to twelve data API https://twelvedata.com and click on Get Your Free API Key.
 Create an account by providing your email and other required details.
 After signing up, log in to your account and navigate to the My API Keys section.
 Click on Generate API Key to obtain your unique key.
